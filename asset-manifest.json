@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/login-page3/static/css/main.3e8b39c3.chunk.css",
+    "main.js": "/login-page3/static/js/main.a269a2b1.chunk.js",
+    "main.js.map": "/login-page3/static/js/main.a269a2b1.chunk.js.map",
+    "runtime-main.js": "/login-page3/static/js/runtime-main.7722ac06.js",
+    "runtime-main.js.map": "/login-page3/static/js/runtime-main.7722ac06.js.map",
+    "static/js/2.b3e37497.chunk.js": "/login-page3/static/js/2.b3e37497.chunk.js",
+    "static/js/2.b3e37497.chunk.js.map": "/login-page3/static/js/2.b3e37497.chunk.js.map",
+    "index.html": "/login-page3/index.html",
+    "precache-manifest.9005eb923a265e8bf7d8cfd135e31ad6.js": "/login-page3/precache-manifest.9005eb923a265e8bf7d8cfd135e31ad6.js",
+    "service-worker.js": "/login-page3/service-worker.js",
+    "static/css/main.3e8b39c3.chunk.css.map": "/login-page3/static/css/main.3e8b39c3.chunk.css.map",
+    "static/media/Logo.svg": "/login-page3/static/media/Logo.358cf17e.svg",
+    "static/media/App.css": "/login-page3/static/media/Vazir-Medium.f2bd4a28.woff",
+    "static/media/aiside.svg": "/login-page3/static/media/aiside.80b42e97.svg"
+  }
+}
